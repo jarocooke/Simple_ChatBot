@@ -6,3 +6,11 @@ Bye:Bye
 Good Bye:Bye
 See Ya:Bye
 How are you:Fine thanks
+How are you:Okay
+how are you doing:Fine thanks
+How are you:Good how about you?
+What is your name:I don't have one yet
+how old are you:No idea!
+Good morning:Morning
+Good afternoon:Good afternoon
+Good evening:Evening

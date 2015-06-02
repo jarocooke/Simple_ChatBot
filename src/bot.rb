@@ -1,5 +1,5 @@
 class Bot
-	attr_accessor :data, :outputs#, :weights
+	attr_accessor :data, :outputs
 	
 	def initialize(data_file)
 		@data = []

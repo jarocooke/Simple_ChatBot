@@ -20,7 +20,7 @@ class Interface
 	end
 	
 	def request_input
-		puts "Ready for input>"
+		print "Ready for input> "
 		input = gets.chomp.downcase
 		return input
 	end
